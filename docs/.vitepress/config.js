@@ -1,6 +1,6 @@
 export default {
+  base: "/t1/",
   themeConfig: {
-    base: "/t1/",
     nav: [
       {
         text: "导航栏1",
